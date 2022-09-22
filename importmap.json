@@ -1,0 +1,5 @@
+{
+  "imports": {
+    "github.com/": "./esm/dist/scopes/github.com/"
+  }
+}

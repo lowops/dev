@@ -1,0 +1,15 @@
+{
+  "super": {
+    ".": {
+      "scopes": {
+        "github.com": {
+          "lowops": {
+            "like-json": [
+              {}
+            ]
+          }
+        }
+      }
+    }
+  }
+}

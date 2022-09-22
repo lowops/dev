@@ -1,0 +1,7 @@
+{
+  "importMap": "./importmap.json",
+  "tasks": {
+    "test": "deno test ./esm/dist/",
+    "ss": "deno run scopes/github.com/lowops/superscopes/esm/deno/mod.ts"
+  }
+}

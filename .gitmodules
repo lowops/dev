@@ -1,0 +1,3 @@
+[submodule "scopes/github.com/lowops/like-json"]
+	path = scopes/github.com/lowops/like-json
+	url = git@github.com:lowops/like-json.git
